@@ -1,2 +1,2 @@
 # web-gym-fitness
-web de un gimnasio
+ Onepage de 7 secciones
